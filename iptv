@@ -1,0 +1,206 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades",Discovery H&H 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90251.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades",GNT 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90638.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Variedades",Canal Sony 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103517.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Variedades",Curta! 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103512.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Variedades",Discovery Channel 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/71864.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Variedades",H2 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90245.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="Variedades",Lifetime 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103492.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQETY6Z.jpeg" group-title="Variedades",Like 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103491.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades",Prime Box Brazil 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103476.ts
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Sabor & Arte 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/112013.ts
+#EXTINF:-1 tvg-logo="http://ccdn.so:80/images/a295a62fc1c80d9e3eeb6e105a8348bb.png" group-title="Variedades",Star Channel 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90249.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="Variedades",Star Hits 2 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103470.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="Variedades",Star Hits 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103469.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starlife.png" group-title="Variedades",Star Life 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103468.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="Variedades",Viva 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103450.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HhI" group-title="Variedades",Woohoo 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103449.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Variedades",Comedy Central 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90642.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/nug" group-title="Variedades",HGTV 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103493.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/SbT" group-title="Variedades",Smithsonian 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103473.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries",HBO 2 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90246.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries",HBO 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90247.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries",HBO Family 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90637.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries",HBO MUNDI 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103496.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Filmes e Séries",HBO Plus 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90635.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries",HBO POP 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103495.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries",HBO Signature 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103494.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Filmes e Séries",HBO Xtreme 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90636.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Filmes e Séries",A&E 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90647.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Filmes e Séries",AMC 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90646.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Filmes e Séries",Cinemax 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90643.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="Filmes e Séries",Mais na Tela 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103488.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="Filmes e Séries",Megapix 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/131104.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="Filmes e Séries",Paramount Channel 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90634.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="Filmes e Séries",Space 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90633.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Filmes e Séries",Studio Universal 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103467.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="Filmes e Séries",SYFY 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103474.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",TCM FHD
+http://ccdn.ai:80/Danilo1302/473HDJttm/73251.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="Filmes e Séries",Telecine Action 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90239.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Filmes e Séries",Telecine Cult 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103456.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="Filmes e Séries",Telecine Fun 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103455.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="Filmes e Séries",Telecine Pipoca 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90238.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="Filmes e Séries",Telecine Premium 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90237.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="Filmes e Séries",Telecine Touch 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103454.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Filmes e Séries",TLC 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103465.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="Filmes e Séries",TNT 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/72377.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="Filmes e Séries",TNT Series 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/72382.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="Filmes e Séries",Universal TV 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90632.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Filmes e Séries",Warner Channel FHD [H265]
+http://ccdn.ai:80/Danilo1302/473HDJttm/72432.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 1 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/72994.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 2 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/72995.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 3 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/72996.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 4 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/72997.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 5 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/72998.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 6 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/72999.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 7 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/73000.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 8 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/73001.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 9 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/73002.ts
+#EXTINF:-1 tvg-logo="" group-title="Filmes e Séries",Cine SKY 10 HD
+http://ccdn.ai:80/Danilo1302/473HDJttm/73003.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Documentários",Animal Planet 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/71774.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Documentários",AXN 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90645.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Documentários",History 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90244.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="Documentários",ID 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90243.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Documentários",Nat Geo Wild 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90242.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários",National Geographic 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/72198.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Documentários",Arte 1 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103531.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="Notícias",Globo News 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90248.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Notícias",CNN Brasil 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/71798.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/eJG" group-title="Notícias",Band News 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103526.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2FLFlC5.png" group-title="Notícias",Jovem Pan News 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/134021.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Esportes",SporTV 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/131188.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes",SporTV 2 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103472.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Esportes",Band Sports 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103525.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Esportes",Combate 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/71844.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Esportes",OFF 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90240.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Música",BIS 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103527.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Música",MTV 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103490.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Música",MTV LIVE 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103489.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/i2z" group-title="Música",MTVs 00 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103451.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Música",Multishow 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/131138.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Música",Music Box Brazil 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103487.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXe9A7X.png" group-title="Música",Trace Brazuca 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103453.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/4vg" group-title="Música",Travel Box Brazil 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103452.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Infantis",Discovery Kids 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90250.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis",Gloob FHD
+http://ccdn.ai:80/Danilo1302/473HDJttm/131153.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Infantis",Cartoonito 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90644.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Infantis",Cartoon Network 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/71830.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="Infantis",Gloob 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103498.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Infantis",Gloobinho 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103497.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Infantis",Nat Geo Kids 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103486.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="Infantis",Nickelodeon 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/90241.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="Infantis",Nick Jr. 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103485.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FSk" group-title="Infantis",TV Ra Tim Bum 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103458.ts
+#EXTINF:-1 tvg-logo="" group-title="Infantis",Zoomoo FHD [H265]
+http://ccdn.ai:80/Danilo1302/473HDJttm/104937.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos",Globo SP FHD [H265]
+http://ccdn.ai:80/Danilo1302/473HDJttm/131215.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Abertos",Globo TV Vanguarda S.J dos Campos FHD
+http://ccdn.ai:80/Danilo1302/473HDJttm/131211.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="Abertos",SBT SP FHD [H265]
+http://ccdn.ai:80/Danilo1302/473HDJttm/104939.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="Abertos",RecordTV SP FHD [H265]
+http://ccdn.ai:80/Danilo1302/473HDJttm/72595.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos",Cultura 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103513.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0hM" group-title="Abertos",Rede Vida 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103475.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/iGX" group-title="Abertos",TV Brasil 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103463.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/QZr" group-title="Abertos",TV Gazeta FHD [H265]
+http://ccdn.ai:80/Danilo1302/473HDJttm/104919.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="Abertos",Canal Brasil 4K FHDR
+http://ccdn.ai:80/Danilo1302/473HDJttm/103518.ts
